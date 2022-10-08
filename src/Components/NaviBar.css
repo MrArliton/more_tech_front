@@ -1,0 +1,8 @@
+.fixed-panel {
+    min-height: 300px;
+    max-height: 300px;
+  }
+  .panel-photo img{
+    width:100%;
+    height: auto;
+ }
